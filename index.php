@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>Buen dia</title>
@@ -6,4 +5,4 @@
 <body>
 
 </body>
-</html>>
+</html>
